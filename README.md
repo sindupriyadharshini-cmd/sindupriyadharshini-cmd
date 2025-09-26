@@ -1,6 +1,6 @@
 ## Hi there ✨ Welcome to my page!
 
-I'm Sindu.<br>
+I'm Sindu.<br><br>
 Simply put, *I write stuff. I simplify tech talk and format it for structured reading.*
 
 I'm a <b>Technical Writer</b> & <b>Content Specialist</b> passionate about turning complex technical concepts into clear, concise, and user-friendly documentation. I have experience with user education documentation, enterprise marketing, product marketing, and customizing customer and partner collateral content. My work primarily involves creating documentation that helps bridge the knowledge gap across developers, product managers, QA teams, and customers.
